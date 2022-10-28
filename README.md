@@ -1,4 +1,4 @@
-Hi I'm Ethan Raque. I'm an amature programmer who writes dumb shit in rust. Have fun ig.
+Hi I'm Ethan I'm an amature programmer who writes dumb stuff in rust.
 
 <!---
 NintendEthan/NintendEthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
