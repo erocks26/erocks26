@@ -1,4 +1,4 @@
-Hi I'm Ethan I'm an amature programmer who writes dumb stuff in rust.
+Hi I'm Ethan I'm an amature programmer currently learning rust. The only good project I've ever put on here is eutils, an implementation of the GNU Coreutils. I hope reading my code doesn't bring you too much pain. godspeed.
 
 <!---
 NintendEthan/NintendEthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
